@@ -18,6 +18,15 @@
     "*.{js,ts,vue}": "eslint --max-warnings=0 --fix"
   },
   "dependencies": {
+    "@nuxt/ui": "^3.3.0",
+    "@nuxtjs/auth-next": "^5.0.0-1667386184.dfbbb54",
+    "@pinia/nuxt": "^0.11.0",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/jsonwebtoken": "^9.0.9",
+    "@types/nodemailer": "^6.4.17",
+    "bcryptjs": "^3.0.2",
+    "jsonwebtoken": "^9.0.2",
+    "nodemailer": "^7.0.3",
     "nuxt": "^4.0.1",
     "pg": "^8.15.6",
     "pinia": "^3.0.2",
